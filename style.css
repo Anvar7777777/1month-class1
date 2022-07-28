@@ -1,0 +1,25 @@
+.box{
+    width: 200px;
+    height: 450px;
+    background-color: cadetblue;
+    display: inline-block;
+    border-radius: 0px 70px 0px 70px;
+}
+.box2{
+    width: 200px;
+    height: 450px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 0px 70px 0px 70px;
+}
+.box3{
+    width: 200px;
+    height: 450px;
+    background-color: black;
+    display: inline-block;
+    /* border-top-left-radius: 15px; */
+    border-radius: 0px 70px 0px 70px;
+    
+
+}
+/* inline elementlarda width height ishlameydi */
